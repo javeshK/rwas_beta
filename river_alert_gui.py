@@ -14,8 +14,8 @@ DANGER_LEVEL = 80
 CSV_FILE = "water_log.csv"
 
 EMAIL_ADDRESS = "javeshkhosla@gmail.com"        # your Gmail
-EMAIL_PASSWORD = "hmeduqnnouhjdcpw"          # App password
-EMAIL_RECEIVER = "bhaskarmahajan2006@gmail.com" # who gets alert
+EMAIL_PASSWORD = ""        # App password
+EMAIL_RECEIVER = ""# who gets alert
 
 # === FUNCTIONS === #
 
